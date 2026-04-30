@@ -2,7 +2,7 @@
 - 👀 I’m interested in Joking
 - 🌱 I’m currently learning how to live
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me? By email
+- 📫 How to reach me? By email alwin.zhang420@gmail.com
 
 <!---
 Alwin4Zhang/Alwin4Zhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
